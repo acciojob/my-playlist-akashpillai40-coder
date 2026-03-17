@@ -8,15 +8,17 @@ h1,h2{
 li{
 	list-style-type:none;
 }
-.player_two, .player_one{
-	background-color: rgb(255, 255, 255);
-	padding:10px;
-	border-radius:10px;
-} 
+.player_one,
+.player_two {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 8px;
+}
 ul{
 	background-color:white;
 	padding:20px;
 	border-spacing:40px;
-a{
-	text-decoration-line:none;
+
+	a {
+  text-decoration: none;
 }
