@@ -1,24 +1,18 @@
-/*  your css code here. If applicable */
-body{
-	background-color: rgb(204, 204, 204);
+body {
+  background-color: rgb(204, 204, 204);
 }
-h1,h2{
-	text-align: center;
+
+a {
+  text-decoration-line: none;
 }
-li{
-	list-style-type:none;
+
+h1, h2 {
+  text-align: center;
 }
+
 .player_one,
 .player_two {
   background-color: rgb(255, 255, 255);
   padding: 10px;
   border-radius: 8px;
-}
-ul{
-	background-color:white;
-	padding:20px;
-	border-spacing:40px;
-
-a {
-  text-decoration: none !important;
 }
